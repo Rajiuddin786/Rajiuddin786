@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajiuddin786
-- 👀 I’m interested in AI,ML,DataScience
+- 👀 I’m interested in GameDev
 - 🌱 I’m currently learning B.Tech(CSE)
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me just a message
